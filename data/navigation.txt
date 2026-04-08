@@ -1,0 +1,28 @@
+Website Navigation for Business Legacy:
+
+Blogs:
+URL: https://thebusinesslegacy.com/blogs/
+Use: When user wants business tips, strategies, or learning content.
+
+Magazine:
+URL: https://thebusinesslegacy.com/magazine/
+Use: When user wants detailed insights, trends, or leadership knowledge.
+
+Cover Stories:
+URL: https://thebusinesslegacy.com/cover-stories/
+Use: When user wants success stories or leadership journeys.
+
+Business Section:
+URL: https://thebusinesslegacy.com/business/
+Use: When user asks about business growth, market insights, or strategies.
+
+Advertise:
+URL: https://thebusinesslegacy.com/advertise-with-us/
+Use: When user asks about promotions or advertising.
+
+RULE:
+Only show links when user asks:
+- where to read
+- show me
+- give link
+Otherwise, only explain.
